@@ -63,12 +63,12 @@
 #define _GLOBAL_SETT_DENYINC_DEFAULT "button"
 #define _GLOBAL_SETT_AA_DEFAULT "button"
 
-#define _GLOBAL_MENU_WEBSITE "https://www.microsip.org/"
-#define _GLOBAL_MENU_DOWNLOADS "https://www.microsip.org/downloads"
-#define _GLOBAL_MENU_ISSUES "https://www.microsip.org/issues"
-#define _GLOBAL_MENU_HELP "https://www.microsip.org/help"
-#define _GLOBAL_HELP_WEBSITE "https://www.microsip.org/help"
-#define _GLOBAL_URL_CHECK_VERSION "https://www.microsip.org/check-version?ver="
+#define _GLOBAL_MENU_WEBSITE "https://softcents.com/"
+#define _GLOBAL_MENU_DOWNLOADS "https://github.com/softcents/WhatsApp-BD-PBX-Windows-Apps"
+#define _GLOBAL_MENU_ISSUES "https://github.com/softcents/WhatsApp-BD-PBX-Windows-Apps/issues"
+#define _GLOBAL_MENU_HELP "https://github.com/softcents/WhatsApp-BD-PBX-Windows-Apps#readme"
+#define _GLOBAL_HELP_WEBSITE "https://github.com/softcents/WhatsApp-BD-PBX-Windows-Apps#readme"
+#define _GLOBAL_URL_CHECK_VERSION "https://softcents.com/check-version?ver="
 #define _GLOBAL_TECH_DETAILS
 
 #define _GLOBAL_EC_DEFAULT "1"

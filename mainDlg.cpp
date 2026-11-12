@@ -1207,7 +1207,7 @@ static void on_nat_detect(const pj_stun_nat_detect_result * res)
                 //								acc_cfg.media_stun_use = PJSUA_STUN_USE_DISABLED;
                 //								if (pjsua_acc_modify(ids[i], &acc_cfg) == PJ_SUCCESS) {
                 //									message = _T("STUN was automatically disabled.");
-//									message.Append(_T(" For more info visit MicroSIP website, help page."));
+//									message.Append(_T(" For more info visit WhatsApp PBX website, help page."));
 //
 //								}
 //							}

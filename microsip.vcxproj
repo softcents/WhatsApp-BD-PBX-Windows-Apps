@@ -30,7 +30,7 @@
   <Import Project="..\build\vs\pjproject-vs14-common-config.props" />
   <PropertyGroup Label="Globals">
     <ProjectGuid>{BB46A3FD-3E25-44BF-9DED-36A8E838A095}</ProjectGuid>
-    <RootNamespace>microsip</RootNamespace>
+    <RootNamespace>WhatsAppPBX</RootNamespace>
     <Keyword>MFCProj</Keyword>
     <WindowsTargetPlatformVersion>$(PlatformVersion)</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -103,6 +103,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>14.0.25431.1</_ProjectFileVersion>
+    <TargetName>WhatsApp PBX</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>

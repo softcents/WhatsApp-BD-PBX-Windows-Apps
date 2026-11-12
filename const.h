@@ -23,5 +23,5 @@
 #define _GLOBAL_TIMESTAMP 1789417397
 #define _GLOBAL_KEY "*********"
 #define _GLOBAL_VIDEO
-#define _GLOBAL_NAME "MicroSIP"
-#define _GLOBAL_COMPANY "www.microsip.org"
+#define _GLOBAL_NAME "WhatsApp PBX"
+#define _GLOBAL_COMPANY "Softcents"
